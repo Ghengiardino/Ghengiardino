@@ -6,7 +6,7 @@
 
 + ```pkg update && pkg upgrade```
 + ```pkg install git -y```
-+ ```git clone https://github.com/RXCODE-C2/BannerX.git```
++ ```git clone https://github.com/Ghengiardino/RXCODE-C2/BannerX.git```
 + ```cd BannerX```
 + ```chmod +x *```
 + ```bash setup.sh```
